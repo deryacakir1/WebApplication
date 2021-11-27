@@ -18,10 +18,10 @@
       <a class="navbar-brand" href="#">Firma Adı</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Ana Sayfa</a></li>
-      <li><a href="#">Hakkımızda</a></li>
-      <li><a href="#">Referanslar</a></li>
-      <li><a href="#">İletişim</a></li>
+      <li><a href="toplama.aspx">Toplama</a></li>
+        <li><a href="cikarma.aspx">Çıkarma</a></li>
+      <li><a href="carpma.aspx">Çarpma</a></li>
+        <li><a href="bolme.aspx">Bölme</a></li>
     </ul>
   </div>
 </nav>

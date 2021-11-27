@@ -94,8 +94,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
-    <Content Include="Default.aspx" />
-    <Content Include="Hakkimizda.aspx" />
+    <Content Include="toplama.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.vb">
@@ -127,18 +126,11 @@
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Default.aspx.designer.vb">
-      <DependentUpon>Default.aspx</DependentUpon>
+    <Compile Include="toplama.aspx.designer.vb">
+      <DependentUpon>toplama.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Default.aspx.vb">
-      <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="Hakkimizda.aspx.designer.vb">
-      <DependentUpon>Hakkimizda.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Hakkimizda.aspx.vb">
-      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+    <Compile Include="toplama.aspx.vb">
+      <DependentUpon>toplama.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
